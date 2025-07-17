@@ -3,7 +3,8 @@ It's a basic portfolio using
 - Tailwind CSS  
 - JavaScript  
 - React.js (CDN)  
-- Babel (CDN) .
+- Babel (CDN)
+- 
 it has  📁 Features
 - Responsive design  
 - Sections: Home, About, Skills, Projects, Contact  
